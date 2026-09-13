@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="482" viewBox="0 0 800 482" role="img" aria-label="D램 월 웨이퍼 생산능력은 삼성전자 66만 장, SK하이닉스 55만 장, CXMT 30만 장이다. 글로벌 D램 매출 점유율은 2025년 2분기 삼성전자 33퍼센트, SK하이닉스 39퍼센트, 마이크론 22퍼센트, CXMT 4퍼센트였으나 2026년 2분기에는 삼성전자 38퍼센트, SK하이닉스 25퍼센트, 마이크론 24퍼센트, CXMT 10퍼센트가 됐다. 한국 두 회사의 합은 72퍼센트에서 63퍼센트로 9퍼센트포인트 줄었고 CXMT는 4퍼센트에서 10퍼센트로 6퍼센트포인트 늘었다.">
+<rect width="800" height="482" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="58" y="26" font-size="13" font-weight="bold" fill="#1a1a1a">D램 월 웨이퍼 생산능력</text>
+<text x="784" y="26" font-size="11" fill="#a0a0a0" text-anchor="end">단위: 만 장</text>
+<text x="58" y="44" font-size="11" fill="#a0a0a0">삼성전자 2026년 2월, SK하이닉스 2026년 6월 기준. CXMT는 업계 추정치.</text>
+
+<line x1="62" y1="76" x2="784" y2="76" stroke="#e4e4e4" stroke-width="1"/>
+<text x="54" y="80" font-size="11" fill="#a0a0a0" text-anchor="end">80</text>
+<line x1="62" y1="123.5" x2="784" y2="123.5" stroke="#e4e4e4" stroke-width="1"/>
+<text x="54" y="127.5" font-size="11" fill="#a0a0a0" text-anchor="end">60</text>
+<line x1="62" y1="171" x2="784" y2="171" stroke="#e4e4e4" stroke-width="1"/>
+<text x="54" y="175" font-size="11" fill="#a0a0a0" text-anchor="end">40</text>
+<line x1="62" y1="218.5" x2="784" y2="218.5" stroke="#e4e4e4" stroke-width="1"/>
+<text x="54" y="222.5" font-size="11" fill="#a0a0a0" text-anchor="end">20</text>
+<line x1="62" y1="266" x2="784" y2="266" stroke="#d8d8d8" stroke-width="1"/>
+<text x="54" y="270" font-size="11" fill="#a0a0a0" text-anchor="end">0</text>
+
+<rect x="165" y="109.25" width="90" height="156.75" fill="#2a78d6"/>
+<text x="210" y="103.25" font-size="13" font-weight="bold" fill="#1a1a1a" text-anchor="middle">66</text>
+<text x="210" y="286" font-size="12" fill="#505050" text-anchor="middle">삼성전자</text>
+
+<rect x="375" y="135.38" width="90" height="130.62" fill="#6aa8e5"/>
+<text x="420" y="129.38" font-size="13" font-weight="bold" fill="#1a1a1a" text-anchor="middle">55</text>
+<text x="420" y="286" font-size="12" fill="#505050" text-anchor="middle">SK하이닉스</text>
+
+<rect x="585" y="194.75" width="90" height="71.25" fill="#eb6834"/>
+<text x="630" y="188.75" font-size="13" font-weight="bold" fill="#1a1a1a" text-anchor="middle">30</text>
+<text x="630" y="286" font-size="12" fill="#505050" text-anchor="middle">CXMT</text>
+
+<text x="58" y="324" font-size="13" font-weight="bold" fill="#1a1a1a">글로벌 D램 매출 점유율</text>
+<text x="784" y="340" font-size="11" fill="#eb6834" text-anchor="end">CXMT 4%</text>
+
+<text x="100" y="372" font-size="12" fill="#505050" text-anchor="end">25.2Q</text>
+<rect x="110" y="346" width="222.4" height="42" fill="#2a78d6"/>
+<text x="221.2" y="372" font-size="12" fill="#ffffff" text-anchor="middle">삼성전자 33%</text>
+<rect x="332.4" y="346" width="262.9" height="42" fill="#6aa8e5"/>
+<text x="463.85" y="372" font-size="12" fill="#ffffff" text-anchor="middle">SK하이닉스 39%</text>
+<rect x="595.3" y="346" width="148.3" height="42" fill="#9e9e9e"/>
+<text x="669.45" y="372" font-size="12" fill="#ffffff" text-anchor="middle">마이크론 22%</text>
+<rect x="743.6" y="346" width="27" height="42" fill="#eb6834"/>
+<rect x="770.6" y="346" width="13.5" height="42" fill="#dcdcdc"/>
+
+<line x1="595.3" y1="388" x2="534.6" y2="404" stroke="#909090" stroke-width="1" stroke-dasharray="3 3"/>
+
+<text x="100" y="430" font-size="12" fill="#505050" text-anchor="end">26.2Q</text>
+<rect x="110" y="404" width="256.1" height="42" fill="#2a78d6"/>
+<text x="238.05" y="430" font-size="12" fill="#ffffff" text-anchor="middle">삼성전자 38%</text>
+<rect x="366.1" y="404" width="168.5" height="42" fill="#6aa8e5"/>
+<text x="450.35" y="430" font-size="12" fill="#ffffff" text-anchor="middle">SK하이닉스 25%</text>
+<rect x="534.6" y="404" width="161.8" height="42" fill="#9e9e9e"/>
+<text x="615.5" y="430" font-size="12" fill="#ffffff" text-anchor="middle">마이크론 24%</text>
+<rect x="696.4" y="404" width="67.4" height="42" fill="#eb6834"/>
+<text x="730.1" y="430" font-size="12" fill="#ffffff" text-anchor="middle">10%</text>
+<rect x="763.8" y="404" width="20.2" height="42" fill="#dcdcdc"/>
+
+<text x="62" y="468" font-size="12" font-weight="bold" fill="#2a78d6">한국 2사 72% → 63% (-9%p)</text>
+<text x="784" y="468" font-size="12" font-weight="bold" fill="#eb6834" text-anchor="end">CXMT 4% → 10% (+6%p)</text>
+</g>
+</svg>
