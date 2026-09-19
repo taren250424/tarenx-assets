@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360" role="img" aria-label="네이버 분기 매출 추이: 26년 2분기 연결 매출 33,888억 원, 네이버 플랫폼 19,022억, 파이낸셜 플랫폼 4,707억, 글로벌 도전 10,159억.">
+<rect width="800" height="360" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="64" y="26" font-size="13" font-weight="bold" fill="#1a1a1a">네이버 분기 매출 (단위: 억 원)</text>
+<rect x="430" y="17" width="10" height="10" rx="2" fill="#2a78d6"/>
+<text x="446" y="26" font-size="12" fill="#505050">네이버 플랫폼</text>
+<rect x="544" y="17" width="10" height="10" rx="2" fill="#8fa0b2"/>
+<text x="560" y="26" font-size="12" fill="#505050">파이낸셜 플랫폼</text>
+<rect x="668" y="17" width="10" height="10" rx="2" fill="#eb6834"/>
+<text x="684" y="26" font-size="12" fill="#505050">글로벌 도전</text>
+<line x1="95" y1="300" x2="760" y2="300" stroke="#d8d8d8" stroke-width="1"/>
+<text x="87" y="304" font-size="11" fill="#a0a0a0" text-anchor="end">0</text>
+<line x1="95" y1="231.43" x2="760" y2="231.43" stroke="#e4e4e4" stroke-width="1"/>
+<text x="87" y="235.43" font-size="11" fill="#a0a0a0" text-anchor="end">10k</text>
+<line x1="95" y1="162.86" x2="760" y2="162.86" stroke="#e4e4e4" stroke-width="1"/>
+<text x="87" y="166.86" font-size="11" fill="#a0a0a0" text-anchor="end">20k</text>
+<line x1="95" y1="94.29" x2="760" y2="94.29" stroke="#e4e4e4" stroke-width="1"/>
+<text x="87" y="98.29" font-size="11" fill="#a0a0a0" text-anchor="end">30k</text>
+<rect x="130" y="190.01" width="110" height="109.99" fill="#2a78d6"/>
+<rect x="130" y="163.5" width="110" height="26.51" fill="#8fa0b2"/>
+<path d="M130 163.5 V110.97 a2 2 0 0 1 2 -2 h106 a2 2 0 0 1 2 2 V163.5 Z" fill="#eb6834"/>
+<text x="185" y="249.01" font-size="12" fill="#ffffff" text-anchor="middle">16,040</text>
+<text x="185" y="180.76" font-size="11" fill="#ffffff" text-anchor="middle">3,866</text>
+<text x="185" y="140.23" font-size="12" fill="#ffffff" text-anchor="middle">7,953</text>
+<text x="185" y="98.97" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle">27,859</text>
+<text x="185" y="322" font-size="12" fill="#505050" text-anchor="middle">25.1Q</text>
+<rect x="290" y="183.85" width="110" height="116.15" fill="#2a78d6"/>
+<rect x="290" y="156.03" width="110" height="27.83" fill="#8fa0b2"/>
+<path d="M290 156.03 V102.03 a2 2 0 0 1 2 -2 h106 a2 2 0 0 1 2 2 V156.03 Z" fill="#eb6834"/>
+<text x="345" y="245.93" font-size="12" fill="#ffffff" text-anchor="middle">16,938</text>
+<text x="345" y="173.94" font-size="11" fill="#ffffff" text-anchor="middle">4,058</text>
+<text x="345" y="132.03" font-size="12" fill="#ffffff" text-anchor="middle">8,167</text>
+<text x="345" y="90.03" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle">29,163</text>
+<text x="345" y="322" font-size="12" fill="#505050" text-anchor="middle">25.2Q</text>
+<rect x="450" y="173.84" width="110" height="126.16" fill="#2a78d6"/>
+<rect x="450" y="142.32" width="110" height="31.52" fill="#8fa0b2"/>
+<path d="M450 142.32 V79.75 a2 2 0 0 1 2 -2 h106 a2 2 0 0 1 2 2 V142.32 Z" fill="#eb6834"/>
+<text x="505" y="240.92" font-size="12" fill="#ffffff" text-anchor="middle">18,398</text>
+<text x="505" y="162.08" font-size="11" fill="#ffffff" text-anchor="middle">4,597</text>
+<text x="505" y="114.04" font-size="12" fill="#ffffff" text-anchor="middle">9,416</text>
+<text x="505" y="67.75" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle">32,411</text>
+<text x="505" y="322" font-size="12" fill="#505050" text-anchor="middle">26.1Q</text>
+<text x="505" y="339" font-size="11" fill="#a0a0a0" text-anchor="middle">+16.3%</text>
+<rect x="610" y="169.56" width="110" height="130.44" fill="#2a78d6"/>
+<rect x="610" y="137.29" width="110" height="32.28" fill="#8fa0b2"/>
+<path d="M610 137.29 V69.63 a2 2 0 0 1 2 -2 h106 a2 2 0 0 1 2 2 V137.29 Z" fill="#eb6834"/>
+<text x="665" y="238.78" font-size="12" fill="#ffffff" text-anchor="middle">19,022</text>
+<text x="665" y="157.43" font-size="11" fill="#ffffff" text-anchor="middle">4,707</text>
+<text x="665" y="106.46" font-size="12" fill="#ffffff" text-anchor="middle">10,159</text>
+<text x="665" y="57.63" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle">33,888</text>
+<text x="665" y="322" font-size="12" fill="#505050" text-anchor="middle">26.2Q</text>
+<text x="665" y="339" font-size="11" fill="#a0a0a0" text-anchor="middle">+16.2%</text>
+</g></svg>

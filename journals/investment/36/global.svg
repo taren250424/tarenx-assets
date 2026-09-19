@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="330" viewBox="0 0 800 330" role="img" aria-label="네이버 글로벌 도전 영역별 매출 비교: 26년 2분기 C2C 3,979억 원으로 74.9퍼센트 증가, 콘텐츠 4,643억 원으로 0.5퍼센트 증가, 엔터프라이즈 1,537억 원으로 21.3퍼센트 증가.">
+<rect width="800" height="330" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="64" y="26" font-size="13" font-weight="bold" fill="#1a1a1a">글로벌 도전 영역별 매출 (단위: 억 원)</text>
+<rect x="600" y="17" width="10" height="10" rx="2" fill="#8fa0b2"/><text x="616" y="26" font-size="12" fill="#505050">25.2Q</text>
+<rect x="676" y="17" width="10" height="10" rx="2" fill="#eb6834"/><text x="692" y="26" font-size="12" fill="#505050">26.2Q</text>
+<line x1="95" y1="250" x2="740" y2="250" stroke="#d8d8d8" stroke-width="1"/>
+<text x="87" y="254" font-size="11" fill="#a0a0a0" text-anchor="end">0</text>
+<line x1="95" y1="174" x2="740" y2="174" stroke="#e4e4e4" stroke-width="1"/>
+<text x="87" y="178" font-size="11" fill="#a0a0a0" text-anchor="end">2k</text>
+<line x1="95" y1="98" x2="740" y2="98" stroke="#e4e4e4" stroke-width="1"/>
+<text x="87" y="102" font-size="11" fill="#a0a0a0" text-anchor="end">4k</text>
+<path d="M150 250 V166.55 a3 3 0 0 1 3 -3 h64 a3 3 0 0 1 3 3 V250 Z" fill="#8fa0b2"/>
+<path d="M240 250 V101.8 a3 3 0 0 1 3 -3 h64 a3 3 0 0 1 3 3 V250 Z" fill="#eb6834"/>
+<text x="185" y="155.55" font-size="11" fill="#a0a0a0" text-anchor="middle">2,275</text>
+<text x="275" y="90.8" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle">3,979</text>
+<text x="230" y="272" font-size="12" fill="#505050" text-anchor="middle">C2C</text>
+<text x="230" y="291" font-size="12" font-weight="bold" fill="#eb6834" text-anchor="middle">+74.9%</text>
+<text x="230" y="310" font-size="11" fill="#a0a0a0" text-anchor="middle">크림·소다·포시마크·왈라팝</text>
+<path d="M350 250 V77.44 a3 3 0 0 1 3 -3 h64 a3 3 0 0 1 3 3 V250 Z" fill="#8fa0b2"/>
+<path d="M440 250 V76.57 a3 3 0 0 1 3 -3 h64 a3 3 0 0 1 3 3 V250 Z" fill="#eb6834"/>
+<text x="385" y="66.44" font-size="11" fill="#a0a0a0" text-anchor="middle">4,620</text>
+<text x="475" y="65.57" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle">4,643</text>
+<text x="430" y="272" font-size="12" fill="#505050" text-anchor="middle">콘텐츠</text>
+<text x="430" y="291" font-size="12" font-weight="bold" fill="#a0a0a0" text-anchor="middle">+0.5%</text>
+<text x="430" y="310" font-size="11" fill="#a0a0a0" text-anchor="middle">웹툰·스노우</text>
+<path d="M550 250 V204.85 a3 3 0 0 1 3 -3 h64 a3 3 0 0 1 3 3 V250 Z" fill="#8fa0b2"/>
+<path d="M640 250 V194.59 a3 3 0 0 1 3 -3 h64 a3 3 0 0 1 3 3 V250 Z" fill="#eb6834"/>
+<text x="585" y="193.85" font-size="11" fill="#a0a0a0" text-anchor="middle">1,267</text>
+<text x="675" y="183.59" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle">1,537</text>
+<text x="630" y="272" font-size="12" fill="#505050" text-anchor="middle">엔터프라이즈</text>
+<text x="630" y="291" font-size="12" font-weight="bold" fill="#a0a0a0" text-anchor="middle">+21.3%</text>
+<text x="630" y="310" font-size="11" fill="#a0a0a0" text-anchor="middle">클라우드·웍스·랩스</text>
+</g></svg>
