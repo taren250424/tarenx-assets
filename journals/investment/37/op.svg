@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360" role="img" aria-label="현대차 분기 영업이익 추이: 25년 1분기 36,336억 원에서 25년 4분기 16,954억 원까지 내려온 뒤 26년 2분기 28,509억 원.">
+<rect width="800" height="360" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="64" y="26" font-size="13" font-weight="bold" fill="#1a1a1a">현대차 분기 영업이익 (단위: 억 원)</text>
+<line x1="95" y1="300" x2="760" y2="300" stroke="#d8d8d8" stroke-width="1"/>
+<text x="87" y="304.00" font-size="11" fill="#a0a0a0" text-anchor="end">0</text>
+<line x1="95" y1="220" x2="760" y2="220" stroke="#e4e4e4" stroke-width="1"/>
+<text x="87" y="224.00" font-size="11" fill="#a0a0a0" text-anchor="end">15k</text>
+<line x1="95" y1="140" x2="760" y2="140" stroke="#e4e4e4" stroke-width="1"/>
+<text x="87" y="144.00" font-size="11" fill="#a0a0a0" text-anchor="end">30k</text>
+<line x1="95" y1="60" x2="760" y2="60" stroke="#e4e4e4" stroke-width="1"/>
+<text x="87" y="64.00" font-size="11" fill="#a0a0a0" text-anchor="end">45k</text>
+<path d="M122.42 300 V108.21 a2 2 0 0 1 2 -2 h52 a2 2 0 0 1 2 2 V300 Z" fill="#2a78d6"/>
+<text x="150.42" y="100.21" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle">36,336</text>
+<text x="150.42" y="322" font-size="12" fill="#505050" text-anchor="middle">25.1Q</text>
+<text x="150.42" y="339" font-size="11" fill="#a0a0a0" text-anchor="middle">8.2%</text>
+<path d="M233.25 300 V109.91 a2 2 0 0 1 2 -2 h52 a2 2 0 0 1 2 2 V300 Z" fill="#2a78d6"/>
+<text x="261.25" y="101.91" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle">36,016</text>
+<text x="261.25" y="322" font-size="12" fill="#505050" text-anchor="middle">25.2Q</text>
+<text x="261.25" y="339" font-size="11" fill="#a0a0a0" text-anchor="middle">7.5%</text>
+<path d="M344.08 300 V166.68 a2 2 0 0 1 2 -2 h52 a2 2 0 0 1 2 2 V300 Z" fill="#2a78d6"/>
+<text x="372.08" y="158.68" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle">25,373</text>
+<text x="372.08" y="322" font-size="12" fill="#505050" text-anchor="middle">25.3Q</text>
+<text x="372.08" y="339" font-size="11" fill="#a0a0a0" text-anchor="middle">5.4%</text>
+<path d="M454.92 300 V211.58 a2 2 0 0 1 2 -2 h52 a2 2 0 0 1 2 2 V300 Z" fill="#2a78d6"/>
+<text x="482.92" y="203.58" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle">16,954</text>
+<text x="482.92" y="322" font-size="12" fill="#505050" text-anchor="middle">25.4Q</text>
+<text x="482.92" y="339" font-size="11" fill="#a0a0a0" text-anchor="middle">3.6%</text>
+<path d="M565.75 300 V167.88 a2 2 0 0 1 2 -2 h52 a2 2 0 0 1 2 2 V300 Z" fill="#2a78d6"/>
+<text x="593.75" y="159.88" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle">25,147</text>
+<text x="593.75" y="322" font-size="12" fill="#505050" text-anchor="middle">26.1Q</text>
+<text x="593.75" y="339" font-size="11" fill="#a0a0a0" text-anchor="middle">5.5%</text>
+<path d="M676.58 300 V149.95 a2 2 0 0 1 2 -2 h52 a2 2 0 0 1 2 2 V300 Z" fill="#2a78d6"/>
+<text x="704.58" y="141.95" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle">28,509</text>
+<text x="704.58" y="322" font-size="12" fill="#505050" text-anchor="middle">26.2Q</text>
+<text x="704.58" y="339" font-size="11" fill="#a0a0a0" text-anchor="middle">5.8%</text>
+</g></svg>
